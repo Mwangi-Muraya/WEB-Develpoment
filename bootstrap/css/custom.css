@@ -1,0 +1,48 @@
+.carousel-inner img{
+    width: 100%;
+    height: 90vh;
+}
+.x{
+    height: 20vh;
+    background-color: #ffc24a;
+}
+
+.y{
+    height: 20vh;
+    background-color: #ff0010;
+}
+
+.z{
+    height: 20vh;
+    background-color: #22ff00;
+}
+
+.a{
+    height: 20vh;
+    background-color: #0effe1;
+}
+
+.b{
+    height: 20vh;
+    background-color: #fc32ff;
+}
+
+.c{
+    height: 20vh;
+    background-color: #515aff;
+}
+
+.d{
+    height: 20vh;
+    background-color: #ff521c;
+}
+
+.e{
+    height: 20vh;
+    background-color: #b7ff25;
+}
+
+.IMG1{
+    height: 20vh;
+    width: 16.67;
+}
